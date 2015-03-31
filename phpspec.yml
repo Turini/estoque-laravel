@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: estoque
+        psr4_prefix: estoque
+        src_path: app
